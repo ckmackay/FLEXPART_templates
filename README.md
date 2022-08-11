@@ -3,7 +3,7 @@
 
 The following files are used as templates by **SOFT-IO-LI** to produce the required files to run **FLEXPART** for each flight with measured NOx excesses.
 
-**AVAILABLE**: provides a list of all the meteo files required for the 10 day period.
+**AVAILABLE**: provides a list of all the meteo files required for the 10 day backward trajectory period.
 
 **COMMAND**: provides the settings for FLEXPART.
 
