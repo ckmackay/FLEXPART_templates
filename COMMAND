@@ -1,0 +1,21 @@
+&releases_ctrl
+    nspec = 1
+    specnum_rel = 24
+/
+
+&release
+    idate1 = 20190713
+    itime1 = 151524
+ IBDATE=         20180524, ! Start date of the simulation   ; YYYYMMDD: YYYY=year, MM=month, DD=day
+ IBTIME=           130000, ! Start time of the simulation   ; HHMISS: HH=hours, MI=min, SS=sec; UTC
+ IEDATE=         20180603, ! End date of the simulation     ; same format as IBDATE
+ IETIME=           130000, ! End time of the simulation     ; same format as IBDATE
+    lat1 = 9.5745
+    lat2 = 10.0745
+    z1 = 546.5
+    z2 = 556.5
+    zkind = 3
+    mass = 1.0
+    parts = 1000
+    comment = 'IAGREL_20190713_0001'
+/

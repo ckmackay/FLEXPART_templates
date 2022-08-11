@@ -1,0 +1,72 @@
+&releases_ctrl
+    nspec = 1
+    specnum_rel = 24
+/
+
+&release
+    idate1 = 20180603
+    itime1 = 024538
+    idate2 = 20180603
+    itime2 = 034242
+    lon1 = -73.0452
+    lon2 = -66.845
+    lat1 = 5.6586
+    lat2 = 11.0693
+    z1 = 188.4
+    z2 = 328.2
+    zkind = 3
+    mass = 1.0
+    parts = 100000
+    comment = 'IAGREL_20180603_0001'
+/
+
+&release
+    idate1 = 20180603
+    itime1 = 074638
+    idate2 = 20180603
+    itime2 = 075346
+    lon1 = -38.7662
+    lon2 = -37.4597
+    lat1 = 30.9941
+    lat2 = 32.15
+    z1 = 156.4
+    z2 = 256.4
+    zkind = 3
+    mass = 1.0
+    parts = 100000
+    comment = 'IAGREL_20180603_0002'
+/
+
+&release
+    idate1 = 20180603
+    itime1 = 080338
+    idate2 = 20180603
+    itime2 = 081654
+    lon1 = -36.8147
+    lon2 = -34.7581
+    lat1 = 32.5567
+    lat2 = 34.2438
+    z1 = 156.3
+    z2 = 256.4
+    zkind = 3
+    mass = 1.0
+    parts = 100000
+    comment = 'IAGREL_20180603_0003'
+/
+
+&release
+    idate1 = 20180603
+    itime1 = 084438
+    idate2 = 20180603
+    itime2 = 084542
+    lon1 = -31.6064
+    lon2 = -30.956
+    lat1 = 35.9784
+    lat2 = 36.5655
+    z1 = 156.4
+    z2 = 256.4
+    zkind = 3
+    mass = 1.0
+    parts = 100000
+    comment = 'IAGREL_20180603_0004'
+/
