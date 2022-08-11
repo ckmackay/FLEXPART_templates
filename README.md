@@ -11,6 +11,6 @@ The following files are used as templates by **SOFT-IO-LI** to produce the requi
 
 **RELEASES**: provides the NOx plume information for the start of the FLEXPART backward trajectory.
 
-In the **SOFT-IO-LI** running directory make the directory **FLEXPART_template/** and copy the 4 files there using *'git clone http://github.com/ckmackay/FLEXPART_templates.git'*. 
+In the **SOFT-IO-LI** running directory create andcopy the directory **FLEXPART_template/** using the command **'git clone http://github.com/ckmackay/FLEXPART_templates.git'**. 
 
 **DO NOT** edit these directly, **SOFT-IO-LI** makes a copy and produces the new file.
